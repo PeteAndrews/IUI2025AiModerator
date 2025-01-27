@@ -1,1 +1,1 @@
-# IUI2025AiModerator
+This repository contains supporting documents for the paper AiModerator: A Co-Pilot for Hyper-Contextualization in Political Debate Video published in conference proceedings Intelligent User Inferfaces (IUI) 2025. The supporting documents include a manual claim verification for the fact-checker from the AiModerator prototype and an example interaction log exported from the system.
